@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  scroll-behavior: smooth;
+  overflow-y: auto;
+  min-width: 810px;
+}
+
+main{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 20px;
+}
