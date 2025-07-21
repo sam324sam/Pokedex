@@ -10,6 +10,7 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
+  base: 'https://sam324sam.github.io/Pokedex/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
