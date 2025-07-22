@@ -1,6 +1,6 @@
 # Pokedex
 
-Poke-API es una pequeña aplicación web desarrollada con Vue.js como parte de un proyecto inicial para aprender este framework. La aplicación muestra una lista de Pokémon con información básica de cada uno.
+Pokedex es una pequeña aplicación web desarrollada con Vue.js como parte de un proyecto inicial para aprender este framework. La aplicación muestra una lista de Pokémon con información básica de cada uno.
 
 Puedes probar la aplicación en el siguiente enlace:[Prueba de la página web](https://sam324sam.github.io/Pokedex/)
 Este proyecto utiliza almacenamiento local (localStorage) para guardar información en el navegador, y realiza peticiones a la [API pública de Pokémon](https://pokeapi.co/) para obtener los datos.
