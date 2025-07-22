@@ -32,6 +32,6 @@ npm rum dev
 
 - Axios
 
-- Vite (opcional, según configuración)
+- Vite
 
 - PokeAPI
